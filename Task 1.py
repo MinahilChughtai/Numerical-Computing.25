@@ -1,3 +1,7 @@
+# Minahil Chughtai
+# Roll no. Fa22/BSCS/111      Sec-C
+# Task 1
+
 import numpy as np
 
 # Population data
